@@ -1,1 +1,0 @@
-# usfws-webmap-template
